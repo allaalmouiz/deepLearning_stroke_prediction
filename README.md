@@ -273,7 +273,7 @@ deepLearning_stroke_prediction/
 ├── healthcare-dataset-stroke-data.csv          # Original dataset
 └── Stroke_Risk_Prediction_Challenge_Module_4.ipynb  # Main notebook
 
----
+```
 
 ## Future Improvements
 
@@ -281,7 +281,6 @@ deepLearning_stroke_prediction/
 2. **Feature Selection:** Use permutation importance to reduce dimensionality
 3. **Deep Learning:** Experiment with additional layers and activation functions
 
----
 
 ## References
 
@@ -290,7 +289,6 @@ deepLearning_stroke_prediction/
 - Keras/TensorFlow: [Official Documentation](https://keras.io/)
 - Medical Context: Stroke prediction importance in public health
 
----
 
 ## License
 
