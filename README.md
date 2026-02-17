@@ -4,6 +4,10 @@
 
 This project assists a public health organization in identifying individuals most at risk of experiencing a stroke using machine learning and deep learning techniques. The goal is to build accurate binary classification models that predict whether a patient will experience a stroke or not based on their health indicators and demographic information.
 
+<p align="center">
+  <img src="stroke-pred.png" alt="Challenge Chain of Thoughts" width="900">
+</p>
+
 ### Business Context
 
 The health organization has expressed concern about predicting all stroke cases correctly:
